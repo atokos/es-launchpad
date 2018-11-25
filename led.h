@@ -5,6 +5,12 @@
 
 void Led_Init();
 
-void Led_Set(tByte LED, tByte STATE);
+//void Led_Set(tByte LED, tByte STATE);
+
+void Led_OFF();
+
+void Led_ON();
+
+void Led_Switch();
 
 #endif

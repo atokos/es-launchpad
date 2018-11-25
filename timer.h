@@ -9,4 +9,8 @@ void timer_run();
 
 tWord getTick();
 
+void delay_us(tWord delay);
+
+void beep(tWord note, tWord duration);
+
 #endif

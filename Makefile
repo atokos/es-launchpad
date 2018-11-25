@@ -1,4 +1,4 @@
-OBJECTS=main.o led.o timer.o switch.o traffic.o uart.o
+OBJECTS=main.o led.o timer.o switch.o uart.o
 
 GCC_DIR = /usr/bin
 SUPPORT_FILE_DIRECTORY = /usr/include
